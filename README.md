@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **1neelyt@gmail.com OR alexhostingz@outlook.com**
 
+Current Discord Status:
+<img src="https://lanyard-istatus.vercel.app/user_status/1144267370769174608">
+
 ---
 
 <h3 align="center">Connect with me:</h3>
