@@ -1,4 +1,4 @@
-<h1 align="center">Wsp! I'm uhalexz!  <img src="https://lanyard-istatus.vercel.app/user_status/1144267370769174608" height="30" width="75"></h1>
+<h1 align="center">Wsp! I'm uhalexz!  <img src="https://lanyard-istatus.vercel.app/user_status/1144267370769174608?type=circled" height="30" width="30"></h1>
 <h3 align="center">I'm a Python Coder, Discord Bot Developer, and the creator of Lime!</h3>
 
 ---
