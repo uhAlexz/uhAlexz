@@ -1,4 +1,4 @@
-<h1 align="center">Wsp! I'm uhalexz!</h1>
+<h1 align="center">Wsp! I'm uhalexz!  <img src="https://lanyard-istatus.vercel.app/user_status/1144267370769174608" height="30" width="75"></h1>
 <h3 align="center">I'm a Python Coder, Discord Bot Developer, and the creator of Lime!</h3>
 
 ---
@@ -12,9 +12,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/uhalexz](https://github.com/uhalexz)
 
 - 📫 How to reach me **1neelyt@gmail.com OR alexhostingz@outlook.com**
-
-Current Discord Status:
-<img src="https://lanyard-istatus.vercel.app/user_status/1144267370769174608">
 
 ---
 
