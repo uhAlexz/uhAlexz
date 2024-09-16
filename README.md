@@ -20,5 +20,7 @@
   </a>
 </details>
 <h1>stuff I use ig</h1>
-<img src="https://skillicons.dev/icons?i=python,js,c#,vscode,visualstudio,robloxstudio,sqlite,nodejs,discord,cloudflare,github" />
+<img src="https://skillicons.dev/icons?i=python%2Cjs%2Cc%2Cvscode%2Cvisualstudio%2Crobloxstudio%2Csqlite%2Cnodejs%2Cdiscord%2Ccloudflare%2Cgithub" />
+<h1>my discord1!</h1>
+<p href="https://discord.com/users/1144267370769174608" title="Discord"><img src="https://lanyard.cnrad.dev/api/1144267370769174608?theme=dark&animated=true&hideDiscrim=false&idleMessage=I%20only%20use%20the%20web%20version%20of%20discord%20lmao"></p>
 </div>
